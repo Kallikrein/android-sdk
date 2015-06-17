@@ -52,7 +52,7 @@ If you don't want to use usb, you can remove  ```--privileged -v /dev/bus/usb:/d
 
 
 
-###Quick Start : 
+###Quick Start
 
 Let's create our first app :
 (considering you are using my aliases)
